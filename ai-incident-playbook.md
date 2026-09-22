@@ -17,6 +17,8 @@
                │                             │
                ▼                             ▼
    [Switch to Static Fallback]    [Throttle Traffic / Route to Human Queue]
+
+   ```
 Sev-1 (Critical):
 
 Hallucinated credit policy rule or score threshold rendered to an active underwriting session.
