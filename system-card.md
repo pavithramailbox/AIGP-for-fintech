@@ -34,6 +34,7 @@ It extracts context from underlying decisioning knowledge graphs and schema regi
        │
        ▼
 [Output Guardrail] ➔ [Rule ID & Code Verification] ➔ [Audited Answer + Citations]
+
 ```
 
 # System Card: Enterprise Decisioning Platform — Natural Language Risk & RAG Engine
@@ -73,6 +74,8 @@ It extracts context from underlying decisioning knowledge graphs and schema regi
        ▼
 [Output Guardrail] ➔ [Rule ID & Code Verification] ➔ [Audited Answer + Citations]
 Foundation Models: Azure OpenAI GPT-4o / Claude 3.5 Sonnet (Deployed in private VPC with Zero Data Retention).
+
+```
 
 Embeddings: text-embedding-3-large (3072 dimensions).
 
