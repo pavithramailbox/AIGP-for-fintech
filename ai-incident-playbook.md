@@ -40,7 +40,7 @@ Action: API Gateway automatically routes query requests away from the LLM micros
 User Experience: Displays verified, static policy documentation with the banner: "Assistant undergoing maintenance. Displaying pre-verified policy references."
 
 Step 2: Isolation & Triage (2–15 Minutes)
-On-call PRE and Infrastructure PM paged via PagerDuty.
+On-call PRE and Infrastructure PM.
 
 Freeze vector store update pipelines to prevent potential index corruption.
 
