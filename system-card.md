@@ -34,6 +34,7 @@ It extracts context from underlying decisioning knowledge graphs and schema regi
        │
        ▼
 [Output Guardrail] ➔ [Rule ID & Code Verification] ➔ [Audited Answer + Citations]
+```
 
 # System Card: Enterprise Decisioning Platform — Natural Language Risk & RAG Engine
 
