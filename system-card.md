@@ -111,6 +111,6 @@ Automated Testing: Build pipelines run 500 ground-truth compliance queries befor
 6. Fallbacks & Auditability
 Low-Confidence Routing: If context retrieval confidence falls below 0.80, the system bypasses LLM generation and routes the user to standard document search or manual underwriting support.
 
-Incident Alerting: Guardrail bypasses trigger immediate PagerDuty alerts to Platform Reliability Engineering.
+Incident Alerting: Guardrail bypasses trigger immediate alerts to Platform Reliability Engineering.
 
 Immutable Audit Trail: All prompt-response pairs, vector IDs, and confidence scores are logged to encrypted, append-only storage to satisfy SR 11-7 and EU AI Act audit requirements.
